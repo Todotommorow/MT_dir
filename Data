@@ -1,0 +1,25 @@
+{
+  "title": "Marginal Taylor",
+  "description": ""The Planet of Squirming Insects" is another name for the arid planet Lilythea. In its wastelands dominated by the ecosystem called "insects" Primabella, a "bee," saves Lamritta, an "ant," who is attacked by worms. Lamritta calls her savior "onee-sama," and the girls gradually become closer. But the history of an endless war between "the bees" and "the ants" drives a great wedge between them.",
+  "artist": "limilim",
+  "author": "limilim",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "1",
+      "groups": {
+        "Twisted Hel Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1618679200"
+    },
+    "8": {
+      "title": "chapter 8",
+      "volume": "1",
+      "groups": {
+        "Twisted Hel Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
