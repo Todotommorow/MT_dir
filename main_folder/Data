@@ -3,7 +3,7 @@
   "description": "test",
   "artist": "limilim",
   "author": "limilim",
-  "cover": "MT_cover.jpg",
+  "cover": "https://raw.githubusercontent.com/Todotommorow/MT_dir/main/main_folder/MT_cover.jpg",
   "chapters": {
     "8": {
       "title": "chapter 8",
