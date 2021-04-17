@@ -5,6 +5,14 @@
   "author": "limilim",
   "cover": "https://raw.githubusercontent.com/Todotommorow/MT_dir/main/main_folder/MT_cover.jpg",
   "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "1",
+      "groups": {
+        "Twisted Hel Scans": "/proxy/api/imgur/chapter/5SIaAo6/"
+      },
+      "last_updated": "1618679200"
+    },
     "8": {
       "title": "chapter 8",
       "volume": "1",
